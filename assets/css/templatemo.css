@@ -115,8 +115,12 @@ div {
 
 /* Nav */
 
-#templatemo_nav_top {
+.colornav #templatemo_nav_top {
     min-height: 40px;
+}
+
+.nav {
+    background-color: #d38b94;
 }
 
 #templatemo_nav_top * {

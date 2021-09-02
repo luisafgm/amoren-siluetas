@@ -4073,7 +4073,7 @@ fieldset:disabled .btn {
 }
 
 .nav-tabs {
-    border-bottom: 1px solid #dee2e6
+    border-bottom: 1px solid #d38b94
 }
 
 .nav-tabs .nav-link {
@@ -4085,7 +4085,7 @@ fieldset:disabled .btn {
 
 .nav-tabs .nav-link:focus,
 .nav-tabs .nav-link:hover {
-    border-color: #e9ecef #e9ecef #dee2e6
+    border-color: #d38b94 #d38b94 #d38b94
 }
 
 .nav-tabs .nav-link.disabled {
@@ -4097,8 +4097,8 @@ fieldset:disabled .btn {
 .nav-tabs .nav-item.show .nav-link,
 .nav-tabs .nav-link.active {
     color: #495057;
-    background-color: #fff;
-    border-color: #dee2e6 #dee2e6 #fff
+    background-color: #d38b94;
+    border-color: #d38b94 #d38b94 #d38b94
 }
 
 .nav-tabs .dropdown-menu {
@@ -4113,7 +4113,7 @@ fieldset:disabled .btn {
 
 .nav-pills .nav-link.active,
 .nav-pills .show>.nav-link {
-    color: #fff;
+    color: #d38b94;
     background-color: #0d6efd
 }
 
@@ -4421,12 +4421,12 @@ fieldset:disabled .btn {
 }
 
 .navbar-dark .navbar-brand {
-    color: #fff
+    color: #d38b94
 }
 
 .navbar-dark .navbar-brand:focus,
 .navbar-dark .navbar-brand:hover {
-    color: #fff
+    color: #d38b94
 }
 
 .navbar-dark .navbar-nav .nav-link {
@@ -4444,7 +4444,7 @@ fieldset:disabled .btn {
 
 .navbar-dark .navbar-nav .nav-link.active,
 .navbar-dark .navbar-nav .show>.nav-link {
-    color: #fff
+    color: #d38b94
 }
 
 .navbar-dark .navbar-toggler {
@@ -4463,7 +4463,7 @@ fieldset:disabled .btn {
 .navbar-dark .navbar-text a,
 .navbar-dark .navbar-text a:focus,
 .navbar-dark .navbar-text a:hover {
-    color: #fff
+    color: #d38b94
 }
 
 .card {
